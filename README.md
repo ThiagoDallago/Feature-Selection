@@ -10,4 +10,5 @@ Alguns dos benefícios da seleção de variáveis são:
 2. Melhora a precisão;  
 3. Reduz o tempo de treinamento  
 
-Para o caso em estudo, por ser tratar de dados supervisionados, utilizamos a tecnica de seleção por Feature Importance.
+Existem várias maneiras de calcular a Feature Importance, dependendo do algoritmo de machine learning utilizado.
+Para o caso em estudo utilizamos o algoritmo RandomForestClassifier.
